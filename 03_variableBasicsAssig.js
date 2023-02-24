@@ -1,0 +1,18 @@
+var mobileNumber= 8308662968;
+var myMobileNumber="8308662968";
+var isPossible= true;
+console.log("typeof Mobile Number is:", typeof mobileNumber);
+console.log("typeof Mobile Number is:", typeof myMobileNumber);
+console.log("typeof isPossible is:", typeof true);
+var roomNumber= 45;
+var MyRoomNumber="45";
+var isIndian= true;
+console.log("typeof Room Number is:", typeof roomNumber);
+console.log("typeof My Room Number is:", typeof MyRoomNumber);
+console.log("typeof Indian is:", typeof true);
+var programNumber= 5;
+var programName ="03_variavleBasicsAssig.js";
+var programIsRun= true;
+console.log("typeof Program Number is:", typeof programNumber);
+console.log("typeof Program Name is:", typeof programName);
+console.log("typeof Program Ia Run is:", typeof true);
