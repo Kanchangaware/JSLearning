@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\helloWorld.js"
+            "program": "${workspaceFolder}\\05_stringTamplete.js"
         }
     ]
 }
